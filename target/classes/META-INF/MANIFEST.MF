@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 91967
+Build-Jdk: 14.0.2
+Implementation-Title: Order-Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infosys.infytel
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/OrderMS
+Created-By: Maven Integration for Eclipse
+
